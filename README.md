@@ -1,4 +1,4 @@
-# 🌦️ Pixel Weather App
+# 🌦️ Sol
 
 A beautiful, retro-styled weather application with pixel art animations that displays current weather conditions, forecasts, air quality, and historical temperature data.
 
